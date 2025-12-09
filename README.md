@@ -15,10 +15,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 - 👀 I’m a Software Engineer
 - 💞️ I’m looking to collaborate on any projects
-- 🌐 Website: [My Portfolio](https://de-junior-portfolio.vercel.app)
+- 🌐 Website: [My Portfolio](https://de-junia-portfolio.vercel.app)
 - 📫 How to reach me 👇
-<p> <a href="https://www.linkedin.com/in/alfred-nti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:alfrednti5000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> --><a href="https://t.me/roddyfred"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/alfrednti"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a> <a href="https://twitter.com/intent/follow?screen_name=mr_freddy59"><img src="https://img.shields.io/twitter/follow/mr_freddy59?label=Twitter&style=for-the-badge&logo=twitter&logoColor=hsl(0%2C%20100%25%2C%20100%25)&labelColor=hsl(198%2C%20100%25%2C%2050%25)&color=hsl(198%2C%20100%25%2C%2050%25)" height=23></a></p>
+<p> <a href="https://www.linkedin.com/in/de-junia-291ab4307/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:isaactuffour744@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
+<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> --><a href="https://t.me/dejunia"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/dejunia"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a> <a href="https://twitter.com/intent/follow?screen_name=dejunia"><img src="https://img.shields.io/twitter/follow/dejunia?label=Twitter&style=for-the-badge&logo=twitter&logoColor=hsl(0%2C%20100%25%2C%20100%25)&labelColor=hsl(198%2C%20100%25%2C%2050%25)&color=hsl(198%2C%20100%25%2C%2050%25)" height=23></a></p>
 
 ## 🛠 Skills
 
@@ -48,7 +48,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 - Tools: Docker, ClickUp
 
 ## 🔗 Connect with me
-[[linkedin]](https://www.linkedin.com/in/alfred-nti/)
+[[linkedin]](https://www.linkedin.com/in/de-junia-291ab4307/)
 
 
 ## Hobbies
